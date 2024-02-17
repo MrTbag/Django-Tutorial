@@ -1,4 +1,0 @@
-mysite/venv/
-mysite/.idea/
-mysite/polls/__pycache__/*.pyc
-mysite/mysite/__pycache__/
