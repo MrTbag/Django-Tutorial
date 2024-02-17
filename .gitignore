@@ -1,0 +1,4 @@
+mysite/venv/
+mysite/.idea/
+mysite/polls/__pycache__/
+mysite/mysite/__pycache__/
